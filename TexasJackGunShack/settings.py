@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-8ii*%a5ftw9gpcr4@wv-69fb=z0-a7tycpy!d@py!+nnxiur(e
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://github.com/rocrtaylor/TexasJack_backend/tree/main/TexasJackGunShack']
+ALLOWED_HOSTS = ['https://github.com/rocrtaylor/TexasJack_backend/tree/main/TexasJackGunShack/']
 
 
 # Application definition
